@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHy32th6n7gSCviNSnejrTxkbmtkM9BbY1XbY5RWM85t9BH3VdRa6eHMPDL/eSFWvy3LN/ClXs+Yi6bYnsX33w==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\gay\\MQTTPublisher\\MQTTPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.3.952\\mqttnet.extensions.managedclient.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}
