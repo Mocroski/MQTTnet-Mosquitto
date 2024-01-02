@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\gay\\MQTTSubscriber\\MQTTSubscriber.csproj": {}
+    "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTSubscriber\\MQTTSubscriber.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\gay\\MQTTSubscriber\\MQTTSubscriber.csproj": {
+    "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTSubscriber\\MQTTSubscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\gay\\MQTTSubscriber\\MQTTSubscriber.csproj",
+        "projectUniqueName": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTSubscriber\\MQTTSubscriber.csproj",
         "projectName": "MQTTSubscriber",
-        "projectPath": "D:\\Projetos\\gay\\MQTTSubscriber\\MQTTSubscriber.csproj",
-        "packagesPath": "C:\\Users\\devmo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\gay\\MQTTSubscriber\\obj\\",
+        "projectPath": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTSubscriber\\MQTTSubscriber.csproj",
+        "packagesPath": "C:\\Users\\lucas.mocroski\\.nuget\\packages\\",
+        "outputPath": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTSubscriber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\devmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas.mocroski\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

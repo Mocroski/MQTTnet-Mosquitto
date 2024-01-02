@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gHy32th6n7gSCviNSnejrTxkbmtkM9BbY1XbY5RWM85t9BH3VdRa6eHMPDL/eSFWvy3LN/ClXs+Yi6bYnsX33w==",
+  "dgSpecHash": "9yGJd/w+2rPMdbo1y2vibOVSwcpQ+n6OA+cHxbkLwrbAgro/2tQcf9r3r0lex9lPKpPfgWBK9fkl3aORDPhOxA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\gay\\MQTTPublisher\\MQTTPublisher.csproj",
+  "projectFilePath": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTPublisher\\MQTTPublisher.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
-    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.3.952\\mqttnet.extensions.managedclient.4.3.3.952.nupkg.sha512"
+    "C:\\Users\\lucas.mocroski\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\lucas.mocroski\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.3.952\\mqttnet.extensions.managedclient.4.3.3.952.nupkg.sha512"
   ],
   "logs": []
 }

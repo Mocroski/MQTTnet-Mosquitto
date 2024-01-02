@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\gay\\MQTTPublisher\\MQTTPublisher.csproj": {}
+    "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTPublisher\\MQTTPublisher.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\gay\\MQTTPublisher\\MQTTPublisher.csproj": {
+    "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTPublisher\\MQTTPublisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\gay\\MQTTPublisher\\MQTTPublisher.csproj",
+        "projectUniqueName": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTPublisher\\MQTTPublisher.csproj",
         "projectName": "MQTTPublisher",
-        "projectPath": "D:\\Projetos\\gay\\MQTTPublisher\\MQTTPublisher.csproj",
-        "packagesPath": "C:\\Users\\devmo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\gay\\MQTTPublisher\\obj\\",
+        "projectPath": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTPublisher\\MQTTPublisher.csproj",
+        "packagesPath": "C:\\Users\\lucas.mocroski\\.nuget\\packages\\",
+        "outputPath": "D:\\Mocroski\\Workspace\\Projetos\\MQTTnet-Mosquitto\\MQTTPublisher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\devmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas.mocroski\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
